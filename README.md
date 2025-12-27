@@ -28,10 +28,11 @@
 
 <br/><br/>
 
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=its-m4npreet&theme=tokyonight&hide_border=true" alt="Streak Stats"/> -->
-<img src="https://streak-stats.demolab.com/?user=its-m4npreet&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=its-m4npreet&theme=tokyonight&hide_border=true" alt="Streak Stats"/> 
 
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=its-m4npreet&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/> -->
+<img src="https://streak-stats.demolab.com/?user=its-m4npreet&theme=tokyonight&hide_border=true" alt="image"/> 
+
+<img src="https://github-profile-trophy.vercel.app/?username=its-m4npreet&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/> 
 
 </div>
 
