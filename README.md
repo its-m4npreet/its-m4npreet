@@ -9,6 +9,7 @@
 
 </div>
 
+<div align+"center">
 ### 👨‍💻 About Me
 - 🔭 Working on **cool projects**
 - 🌱 Learning **advanced MERN stack techniques**
@@ -28,11 +29,11 @@
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=its-m4npreet&theme=tokyonight&hide_border=true" alt="Streak Stats"/> 
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=its-m4npreet&theme=tokyonight&hide_border=true" alt="Streak Stats"/>  -->
 
 <img src="https://streak-stats.demolab.com/?user=its-m4npreet&theme=tokyonight&hide_border=true" alt="image"/> 
 
-<img src="https://github-profile-trophy.vercel.app/?username=its-m4npreet&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/> 
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=its-m4npreet&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>  -->
 
 </div>
 
@@ -56,6 +57,7 @@
 [![Twitter/X](https://img.shields.io/badge/X-Follow-black?logo=x)](https://x.com/m4npreet006)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff69b4?logo=google-chrome)](https://m4npreet.tech)
 
+</div>
 </div>
 
 <div align="center">
