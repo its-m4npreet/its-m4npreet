@@ -9,7 +9,7 @@
 
 </div>
 
-<div align+"center">
+
 ### 👨‍💻 About Me
 - 🔭 Working on **cool projects**
 - 🌱 Learning **advanced MERN stack techniques**
@@ -58,7 +58,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff69b4?logo=google-chrome)](https://m4npreet.tech)
 
 </div>
-</div>
+
 
 <div align="center">
   <i>Thanks for stopping by! ⭐ Star my repos if you find them useful!</i>
