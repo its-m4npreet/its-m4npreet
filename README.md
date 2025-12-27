@@ -23,14 +23,15 @@
 ### 📊 GitHub Stats
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=its-m4npreet&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-m4npreet&layout=compact&theme=tokyonight&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=its-m4npreet&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=its-m4npreet&layout=compact&theme=tokyonight&langs_count=8"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=its-m4npreet&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=its-m4npreet&theme=tokyonight&hide_border=true" alt="Streak Stats"/> -->
+<img src="https://streak-stats.demolab.com/?user=its-m4npreet&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=its-m4npreet&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=its-m4npreet&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/> -->
 
 </div>
 
