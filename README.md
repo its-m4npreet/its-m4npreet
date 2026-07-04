@@ -1,7 +1,5 @@
 
-# MANPREET 
-==================
-
+# MANPREET
 MERN Stack Dev | Turning React into real apps | Building in public from India
 
 ---------------<br>
