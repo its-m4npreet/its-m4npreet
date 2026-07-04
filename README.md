@@ -1,65 +1,78 @@
-<div align="center">
+# MANPREET <3
+==================
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Manpreet!;MERN+Stack+Developer;Turning+React+into+real+apps+%7C+Building+in+public+from+India" alt="Typing SVG" />
+MERN Stack Dev | Turning React into real apps | Building in public from India
 
+---------------
+Connect With Me
 
-<br/>
+» X / Twitter   → https://x.com/m4npreet006
+» Portfolio     → https://m4npreet.tech/
+» LinkedIn      → https://www.linkedin.com/in/m4npreet006
 
-<img src="https://komarev.com/ghpvc/?username=its-m4npreet&label=Profile%20Views&color=blue&style=flat-square" alt="Visitor Badge"/>
+--------------
+Skills & Tools
 
-</div>
+» Languages:    JavaScript (ES6+), SQL, C/C++, Python
+» Frontend:     React, HTML5, CSS3, Tailwind CSS
+» Backend:      Node.js, Express.js, REST API design, JWT, bcrypt
+» Databases:    MongoDB, MySQL
+» Tools:        Git, GitHub, Vercel, Netlify, Postman, VS Code
 
+-----------------
+Work Experience
 
-### 👨‍💻 About Me
-- 🔭 Working on **cool projects**
-- 🌱 Learning **advanced MERN stack techniques**
-- 👯 Open to collaborate on **open-source projects**
-- 💬 Ask me about **React, Node.js, MongoDB**
-- 📍 Location: **Punjab, India**
-- ⚡ Fun fact: Building in public keeps the code flowing ☕
+● Web Design & Development Intern — Istudio (Remote)
+  ✦ Apr 2026 – June 2026
+  ✦ Built responsive web interfaces using React, JavaScript, and Tailwind CSS; crafted reusable UI components across 5+ pages.
+  ✦ Streamlined forms, navigation, and interactive content modules, cutting redundant code by ~30%.
 
-### 🛠️ Tech Stack
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,tailwind&perline=8" />
+-----------------
+Featured Projects
 
-### 📊 GitHub Stats
-<div align="center">
+● GreenBasket
+  ✦ A modern grocery e-commerce platform focused on fresh fruits, vegetables, and daily essentials.
+  ✦ Live: https://greenobasket.vercel.app
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=its-m4npreet&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=its-m4npreet&layout=compact&theme=tokyonight&langs_count=8"/>
+● BlogZone-CLG
+  ✦ A community-driven blogging platform where users can create, share, and discover content.
+  ✦ Live: https://blogzone-clg.netlify.app
 
-<br/><br/>
+● MedSummary
+  ✦ Helps users understand medicine information by converting complex drug data into simple, clear guidance.
+  ✦ Live: https://medsummary.vercel.app
 
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=its-m4npreet&theme=tokyonight&hide_border=true" alt="Streak Stats"/>  -->
+● Shorrtly
+  ✦ A URL shortening service that transforms long URLs into short, shareable links.
+  ✦ Live: https://shorrtly.netlify.app
 
-<img src="https://streak-stats.demolab.com/?user=its-m4npreet&theme=tokyonight&hide_border=true" alt="image"/> 
+● OG-Image-Generator
+  ✦ Dynamically generates Open Graph images for better social sharing previews.
+  ✦ Live: https://og-image-generator-pied.vercel.app
 
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=its-m4npreet&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>  -->
+● fontlab
+  ✦ A font exploration tool for browsing, testing, and comparing typefaces.
+  ✦ Repo: https://github.com/its-m4npreet/fontlab
 
-</div>
+● rixn-Tweaks-UI
+  ✦ A product showcase UI with responsive design and feature highlights.
+  ✦ Live: https://rixn-tweaks-ui.vercel.app
 
-<!-- ### 🐍 Contribution Snake
-<img src="https://raw.githubusercontent.com/its-m4npreet/its-m4npreet/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+● Critic Score
+  ✦ A rating and review application where users can explore items and view detailed scores.
+  ✦ Live: https://critic-score-xcul.vercel.app
 
-*(Auto-updates daily via GitHub Actions – add the workflow from [platane/snk](https://github.com/platane/snk))* -->
+● CityCare
+  ✦ A cleanliness awareness project designed to encourage a cleaner environment.
+  ✦ Live: https://careyourcity.vercel.app
 
-<!-- ### ⏰ Weekly Coding Time (WakaTime) -->
-<!--START_SECTION:waka-->
-<!-- <img src="https://wakatime.com/share/@your-wakatime-id/unique-id.svg" alt="WakaTime Stats"/> -->
-<!--END_SECTION:waka-->
+● Eshoply
+  ✦ A feature-rich e-commerce platform with product browsing, filtering, and cart management.
+  ✦ Live: https://eshoply.vercel.app
 
-<!-- ### 🎵 Now Playing on Spotify
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=your-spotify-user-id" alt="Spotify Playing"/> -->
+--------------------------
+Thanks for stopping by! :)
 
-### 🌐 Connect With Me
-<div align="center">
+Feel free to say hi, share ideas, or just grab a virtual coffee ☕︎
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/manpreet-730575365)
-[![Twitter/X](https://img.shields.io/badge/X-Follow-black?logo=x)](https://x.com/m4npreet006)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff69b4?logo=google-chrome)](https://m4npreet.tech)
-
-</div>
-
-
-<div align="center">
-  <i>Thanks for stopping by! ⭐ Star my repos if you find them useful!</i>
-</div>
+Let's build something cool together <3
