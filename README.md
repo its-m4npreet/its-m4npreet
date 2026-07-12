@@ -70,7 +70,7 @@ Featured Projects
   ✦ Live: https://eshoply.vercel.app
 
 --------------------------<br>
-Thanks for stopping by! :)
+Thanks for stopping by! 
 
 Feel free to say hi, share ideas, or just grab a virtual coffee ☕︎
 
